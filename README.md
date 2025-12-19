@@ -1,1 +1,1 @@
-![Test Image 1](Apple.png)
+![Test Image 1](./apple.png)
